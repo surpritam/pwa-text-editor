@@ -6,13 +6,13 @@ JATE (Just Another Text Editor) is a Progressive Web Application (PWA) that func
 
 ## Table of Contents
 
-[Installation]()
-[Usage]()
-[Demo]()
-[Technologies]()
-[License]()
-[Contributing]()
-[Questions]()
+[Installation](#installation)
+[Usage](#usage)
+[Demo](#demo)
+[Technologies](#technologies)
+[License](#license)
+[Contributing](#contributing)
+[Questions](#questions)
 
 ## Installation
 ### Locally
@@ -24,7 +24,7 @@ git clone https://github.com/surpritam/pwa-text-editor.git
 ```
 2. Navigate into the project directory:
 ```bash
-cd jate-text-editor
+cd pwa-text-editor
 ```
 3. Install dependencies:
 ```bash
@@ -56,6 +56,7 @@ Once the application is running, you can:
 4. You can install the application as a PWA by clicking the "Install" button or using your browser's PWA installation feature.
 
 ## Demo
+You can find the application demo [here](https://drive.google.com/file/d/1ExaxEiZUnTw5hMLsoOWX5VyKCdJSkKBw/view?usp=sharing)
 
 ## Technologies
 
